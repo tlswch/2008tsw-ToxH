@@ -33,7 +33,7 @@
             "url": "https://pastebin.com/raw/FSLJXZN5",
             "name": "8"
         },
-        {
+{
             "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/Box.json",
             "name": "9"
             
@@ -57,9 +57,33 @@
             "name": "13"
            
         },
+       {
+            "url": "http://xn--4bra.live/%E7%8C%AB",
+            "name": "14"
+            
+        },
+        {
+            
+            "url": "http://shuyuan.miaogongzi.net/shuyuan/1664618421.txt",
+            "name": "15"
+        },
+        {
+            "url": "https://maoyingshi.cc/tvbox/????????/1.m3u8",
+            "name": "16"
+        },
+        {
+            "url": "http://lengniuge.atwebpages.com/tv/box.json",
+            "name": "17"
+            
+        },
+        {
+            "url": "https://agit.ai/mys2099/mys/raw/branch/ma/ai.txt",
+            "name": "18"
+           
+        },
         {
             "url": "https://agit.ai/yuer/mao/raw/branch/master/00/000.m3u8",
-            "name": "14"
+            "name": "19"
         }
     ]
 }
