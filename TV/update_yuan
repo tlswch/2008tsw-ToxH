@@ -22,7 +22,7 @@
             "name": "5"
         },
         {
-            "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/dxwoai18+.json",
+            "url": "https://agit.ai/yuer/mao/raw/branch/master/00/000.m3u8",
             "name": "6"
         },
         {
@@ -87,8 +87,24 @@
             
         },
 {
-            "url": "https://agit.ai/yuer/mao/raw/branch/master/00/000.m3u8",
+            "url": "http://miaotvs.cn/osc",
             "name": "20"
+            
+        },
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "21"
+           
+        },
+         {
+            "url": "https://agit.ai/ABCD/box/raw/branch/master/18
+",
+            "name": "22"
+            
+        },
+{
+            "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/dxwoai18+.json",
+            "name": "23"
         }
     ]
 }
