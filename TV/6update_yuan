@@ -4,21 +4,21 @@
         "name": "X000内置",
         "time": "2022-08-28 16:13:33"
     },
+   {
+    "url": "https://vip.jthn.cn/box/m.json",
+    "name": "VIP高速接口"
+},
     {
         "url": "https://0a.fit/自用",
         "name": "自用",
         "time": "2022-08-27 10:33:33"
-    },
+    }, 
    
     {
         "url": "http://s.nxw.so/vip",
         "name": "🍑凯速/2863'",
         "time": "2022-08-27 10:33:33"
-    }, {
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
-        "name": "🌈佰欣园",
-        "time": "2022-08-27 10:33:33"
-    },{
+    },  {
         "url": "https://神器每日推送.tk/pz.json",
         "name": "神器",
         "time": "2022-08-30 12:17:30"
@@ -34,6 +34,14 @@
     },
  
  
+
+ 
+ 
+{
+"url": "http://刚刚.live/猫",
+"name": "刚刚走过",
+"time": "2022-08-26 02:00:00"
+},
 {
 "url": "https://download.kstore.space/download/2863/01.txt",
 "name": "潇洒线路",
@@ -53,7 +61,7 @@
         "name": "♻️外链",
         "time": "2022-08-28 10:33:33"
     },
-     {
+      {
         "url": "https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt",
         "name": "🍐木极",
         "time": "2022-08-28 10:33:33"
@@ -85,6 +93,7 @@
         "name": "🍆CH猫友'",
         "time": "2022-08-28 10:33:33"
     }, 
+   
     {
         "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
         "name": "🌽PinkBird/github",
@@ -115,15 +124,15 @@
             "url": "http://miaotvs.cn/osc",
             "name": "喵TV"
         },
-         
-         
-     
+       
+      
         {
             "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
             "name": "猫影视Pro( 823)"
         },
         
-        
+   
+    
         {
             "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
             "name": "〔云星日记〕家庭版线路",
@@ -138,34 +147,6 @@
             "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
             "name": "〔云星日记〕阿里套餐线路",
             "time": "2022-08-26 02:00:00"
-        }
-    ],
-    "vip": [
-        //{
-        //    "url": "http://tvmvip110.live/down.php/8ee484fd7b6d3a8eb9b0005f43d68175.txt",
-        //    "name": "68175.txt"
-        //},
-        {
-            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
-            "name": "yeshijieC.json"
-        },
-        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29908/18.json?sign=6dFDJtF30CNlCiznjsQmwbsUbxdtz9edLVjbDc5lC8E%3D%3A0",
-            "name": "月光福利"
-        },
-        {
-            "url": "http://mtw.so/5PGEEm",
-            "name": "houxian福利",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
-            "name": "wlyz88FL",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "http://tvmvip110.live/down.php/0a20c53b3c39b42d21482b2597943bc7.txt",
-            "name": "943bc7.txt"
-        }
+        } 
     ]
 }
