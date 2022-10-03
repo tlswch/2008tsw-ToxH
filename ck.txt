@@ -1,0 +1,112 @@
+{
+  "storeHouse": [
+  {
+    "sourceName": "默认1号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/1/tv/update_yuan"
+  },
+  {
+    "sourceName": "2号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/2/tv/update_yuan"
+  },
+  {
+    "sourceName": "3号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/3/tv/update_yuan"
+  },
+  {
+    "sourceName": "4号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/4/tv/update_yuan"
+  },
+  {
+    "sourceName": "5号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/5/tv/update_yuan"
+  },
+  {
+    "sourceName": "6号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/6/tv/update_yuan"
+  },
+  {
+    "sourceName": "7号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/7/tv/update_yuan"
+  },
+  {
+    "sourceName": "8号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/8/tv/update_yuan"
+  },{
+    "sourceName": "9号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/9/tv/update_yuan"
+  },
+  {
+    "sourceName": "10号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/10/tv/update_yuan"
+  },
+  {
+    "sourceName": "11号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/11/tv/update_yuan"
+  },
+  {
+    "sourceName": "12号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/12/tv/update_yuan"
+  },
+  {
+    "sourceName": "13号仓�?,
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/13/tv/update_yuan"
+  },
+  {
+    "sourceName": "14号仓�?,
+    "sourceUrl": "https://pic.stackoverflow.wiki/uploadImages/39/144/101/92/2022/09/24/12/21/1742ba21-6c6d-4b82-8854-1a507b28beca.tiff"
+  },
+  {
+    "sourceName": "15号仓�?,
+    "sourceUrl": ""
+  },
+  {
+    "sourceName": "16号仓�?,
+    "sourceUrl": ""
+  },
+  {
+    "sourceName": "17号仓�?,
+    "sourceUrl": ""
+  },
+  {
+    "sourceName": "18号仓�?,
+    "sourceUrl": ""
+  },
+  {
+    "sourceName": "19号仓�?,
+    "sourceUrl": ""
+  },
+  {
+    "sourceName": "20号仓�?,
+    "sourceUrl": "https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt"
+  },
+  {
+  "sourceName":"21号仓�?,
+  "sourceUrl":"https://gitcode.net/zqk219/baip/-/raw/main/zqk19.json"
+  },
+  {
+  "sourceName":"22号仓�?,
+  "sourceUrl":""
+  },
+  {
+  "sourceName":"23号仓�?,
+  "sourceUrl":""
+  },
+  {
+  "sourceName":"24号仓�?,
+  "sourceUrl":""
+  },
+  {
+  "sourceName":"25号仓�?,
+  "sourceUrl":""
+  },
+  {
+  "sourceName":"26号仓�?,
+  "sourceUrl":""
+  },
+  {
+  "sourceName":"27号仓�?,
+  "sourceUrl":""
+  }
+
+  ]
+}
