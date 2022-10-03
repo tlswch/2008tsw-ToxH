@@ -1,111 +1,112 @@
 {
-    "urls": [
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "1"
-        },
-        {
-            "url": "https://agit.ai/ccvv/TVBox/raw/branch/main/tv.json
-",
-            "name": "2号仓�?,"
-           
-        },
-        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "3"
-        },
-        {
-            "url": "https://agit.ai/kvymin/TV/raw/branch/master/maoys.json",
-            "name": "4"
-        },
-        {
-            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "5"
-        },
-        {
-            "url": "https://agit.ai/yuer/mao/raw/branch/master/00/000.m3u8",
-            "name": "6"
-        },
-        {
-            "url": "http://js.134584.xyz/json/pp87.json",
-            "name": "7"
-        },
-        {
-            "url": "https://pastebin.com/raw/FSLJXZN5",
-            "name": "8"
-        },
-{
-            "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/Box.json",
-            "name": "9"
-            
-        },
-        {
-            
-            "url": "https://agit.ai/joedai/TV/raw/branch/main/901/901.json",
-            "name": "10"
-        },
-        {
-            "url": "https://agit.ai/mys2099/mys/raw/branch/ma/ai.txt",
-            "name": "11"
-        },
-        {
-            "url": "https://pastebin.com/raw/gtbKvnE1",
-            "name": "12"
-            
-        },
-        {
-            "url": "https://share.nite07.com/api/v3/file/source/20889/boxzy.json?sign=4zM1VDZ3fmEr6yQAsULp_PMzzyLguYN9wKwDP5Bq4hY%3D%3A0",
-            "name": "13"
-           
-        },
-       {
-            "url": "http://xn--4bra.live/%E7%8C%AB",
-            "name": "14"
-            
-        },
-        {
-            
-            "url": "http://shuyuan.miaogongzi.net/shuyuan/1664618421.txt",
-            "name": "15"
-        },
-        {
-            "url": "https://agit.ai/wjj415/w/raw/branch/master/gg.txt",
-            "name": "16"
-        },
-        {
-            "url": "https://agit.ai/JAL/6699/raw/branch/main/YUAN/xpg.json",
-            "name": "17"
-            
-        },
-        {
-            "url": "https://agit.ai/2008tsw/ToxE/raw/branch/master/PRO.json",
-            "name": "18"
-           
-        },
-         {
-            "url": "https://agit.ai/hongdeng98/XZY/raw/branch/main/0919.txt",
-            "name": "19"
-            
-        },
-{
-            "url": "http://miaotvs.cn/osc",
-            "name": "20"
-            
-        },
-        {
-            "url": "https://dxawi.github.io/0/0.json",
-            "name": "21"
-           
-        },
-         {
-            "url": "https://agit.ai/joedai/TV/raw/branch/main/926/926.json
-",
-            "name": "22"
-            
-        },
-{
-            "url": "https://agit.ai/ccvv/TVBox/raw/branch/main/1.json",
-            "name": "23"
-        }
-    ]
+  "storeHouse": [
+  {
+    "sourceName": "默认1号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/1/tv/update_yuan"
+  },
+  {
+    "sourceName": "2号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/2/tv/update_yuan"
+  },
+  {
+    "sourceName": "3号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/3/tv/update_yuan"
+  },
+  {
+    "sourceName": "4号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/4/tv/update_yuan"
+  },
+  {
+    "sourceName": "5号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/5/tv/update_yuan"
+  },
+  {
+    "sourceName": "6号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/6/tv/update_yuan"
+  },
+  {
+    "sourceName": "7号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/7/tv/update_yuan"
+  },
+  {
+    "sourceName": "8号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/8/tv/update_yuan"
+  },{
+    "sourceName": "9号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/9/tv/update_yuan"
+  },
+  {
+    "sourceName": "10号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/10/tv/update_yuan"
+  },
+  {
+    "sourceName": "11号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/11/tv/update_yuan"
+  },
+  {
+    "sourceName": "12号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/12/tv/update_yuan"
+  },
+  {
+    "sourceName": "13号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/13/tv/update_yuan"
+  },
+  {
+    "sourceName": "14号仓库",
+    "sourceUrl": "https://pic.stackoverflow.wiki/uploadImages/39/144/101/92/2022/09/24/12/21/1742ba21-6c6d-4b82-8854-1a507b28beca.tiff"
+  },
+  {
+    "sourceName": "15号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/15/tv/update_yuan"
+  },
+  {
+    "sourceName": "16号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/16/tv/update_yuan"
+  },
+  {
+    "sourceName": "17号仓库",
+    "sourceUrl": "http://5.nxog.top/m/dc/api/api/17/tv/update_yuan"
+  },
+  {
+    "sourceName": "18号仓库",
+    "sourceUrl": "https://agit.ai/00/0/raw/branch/0/666"
+  },
+  {
+    "sourceName": "19号仓库",
+    "sourceUrl": "https://agit.ai/leroy/leroy/raw/branch/master/2.bin"
+  },
+  {
+    "sourceName": "20号仓库",
+    "sourceUrl": "https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt"
+  },
+  {
+  "sourceName":"21号仓库",
+  "sourceUrl":"https://gitcode.net/zqk219/baip/-/raw/main/zqk19.json"
+  },
+  {
+  "sourceName":"22号仓库",
+  "sourceUrl":"https://agit.ai/zhanghong/jyys/raw/branch/master/1"
+  },
+  {
+  "sourceName":"23号仓库",
+  "sourceUrl":"https://agit.ai/zhanghong/jyys/raw/branch/master/2"
+  },
+  {
+  "sourceName":"24号仓库",
+  "sourceUrl":"https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"
+  },
+  {
+  "sourceName":"25号仓库",
+  "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/5.txt"
+  },
+  {
+  "sourceName":"26号仓库",
+  "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/6"
+  },
+  {
+  "sourceName":"27号仓库",
+  "sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/7"
+  }
+
+  ]
 }
