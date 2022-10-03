@@ -1,74 +1,205 @@
 {
     "urls": [
- 
- 
- 
-   {
-       "url": "http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/1.m3u8",
-       "name": "ã€”äº‘æ˜Ÿæ—¥è®°ã€•å®¶åº­ç‰ˆçº¿è·¯",
-       "time": "2022-08-26 02:00:00"
-   },
-      { "url": "http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/bili.json",
-       "name": "ã€”äº‘æ˜Ÿæ—¥è®°ã€•å“”å“©å¥—é¤çº¿è·¯",
-       "time": "2022-08-26 02:00:00"
-       },
-       {
-           "url": "http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/ali.m3u8",
-           "name": "ã€”äº‘æ˜Ÿæ—¥è®°ã€•é˜¿é‡Œå¥—é¤çº¿è·¯",
-           "time": "2022-08-26 02:00:00"
-       },
-       
-       {
-           "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
-           "name": "æ˜Ÿè¾°å®¶åº­ç‰ˆçº¿è·¯",
-           "time": "2022-08-26 02:00:00"
-       },
-   
-       {
-           "url": "http://miaotvs.cn/osc",
-           "name": "çŒ«å½±è§†å®¶åº­ç‰ˆçº¿è·¯",
-           "time": "2022-08-26 02:00:00"
-       },
-       {
-           "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
-           "name": "çŒ«å½±è§†Proç‰ˆçº¿è·¯",
-           "time": "2022-08-26 02:00:00"
-       },
-      
-  
-    
-       {"url": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd",
-       "name": "æœªçŸ¥ä¸ªäººç‰ˆçº¿è·¯",
-       "time": "2022-09-01 11:25:00"
-       },
-      
- 
-      {
-            "url": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd",
-            "name": "BDçº¿è·¯"
+        {
+            "url": "http://120.53.102.254/tvb",
+            "name": "BDÏßÂ·"
         },
-  
-        { "url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json", "name": "è€åˆ˜å¤‡å®¶åº­ç‰ˆå‰¯çº¿äºŒ" },
- { "url": "http://js.134584.xyz/json/pp87.json", "name": "ç™½å«–å½±è§†å®¶åº­ç‰ˆçº¿è·¯" },
- 
- 
- { "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt", "name": "ä½°æ¬£å›­ä¸»çº¿" }, { "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt", "name": "ä½°æ¬£å›­å‰¯çº¿" }, 
-{ "url": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd", "name": "BDçº¿è·¯" },
- 
- { "url": "https://ç¥å™¨æ¯æ—¥æ¨é€.tk/pz.json", "name": "ç¥å™¨æ¯æ—¥æ¨é€çº¿è·¯" }, 
-{ "url": "http://52bsj.vip:98/wuai", "name": "ğŸŒŸå¾çˆ±ï¸çº¿è·¯ğŸŒŸ" }, 
- 
- { "url": "https://download.kstore.space/download/2863/01.txt", "name": "æ½‡æ´’æ—¥è®°çº¿è·¯" }, 
-{ "url": "https://wds.ecsxs.com/223843.txt", "name": "223843çº¿è·¯" }, 
-{ "url": "http://s.nxw.so/vip", "name": "å‡¯é€Ÿ2863" },
- 
- { "url": "https://agit.ai/n/b/raw/branch/a/b/c.json", "name": "HDXYçº¿è·¯" },
- { "url": "http://miaotvs.cn/osc", "name": "å¤ªé˜³è§†ç•Œå®¶åº­ç‰ˆçº¿è·¯" }
+        {
+            "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
+            "name": "¼ÒÍ¥FASTGITÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://xn--4bra.live/%E7%8C%AB",
+            "name": "4K"
+        },
+        {
+            "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
+            "name": "ĞÇ³½"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "ÔÂ¹â±¦ºĞBoxÏßÂ·"
+        },
+        {
+            "url": "http://miaotvs.cn/osc",
+            "name": "ß÷TV"
+        },
+        {
+            "url": "https://gitea.com/boxlive/box/raw/branch/main/jk/showboxv822.json",
+            "name": "showbox"
+        },
+        {
+            "url": "https://gitea.com/wy3426/9/raw/branch/9/9/1.json",
+            "name": "ÁùÉñ"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/proxyjt.json",
+            "name": "¼ÒÍ¥GHPROXYÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edjt.json",
+            "name": "¼ÒÍ¥7EDÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+
+//{
+//     "url": "http://120.53.102.254/tvb/gg",
+//     "name": "GGÏßÂ·"
+// },
+// {
+//     "url": "http://120.53.102.254/tvb/beiyong",
+//     "name": "YXÏßÂ·"
+// },
+// {
+//     "url": "http://120.53.102.254/tvb/bili",
+//     "name": "BLÏßÂ·"
+// },
+// {
+//     "url": "http://120.53.102.254/tvb/ali",
+//     "name": "ALÏßÂ·"
+// },
+// {
+//     "url": "http://120.53.102.254/tvb/by2",
+//     "name": "TYÏßÂ·"
+// },
+        {
+            "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+            "name": "Ã¨Ó°ÊÓPro( 823)"
+        },
+        {
+            "url": "https://box.okeybox.top/tv/uav0.json",
+            "name": "tvbox"
+        },
+        {
+            "url": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
+            "name": "¸ö°æ×ÔÓÃ",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
+            "name": "¸öÈË°æ×ÔÓÃ",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://gitee.com/zhanghong19830310/tv/raw/master/tv/giteetvboxjt.json",
+            "name": "¼ÒÍ¥GITEEÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/%E5%BD%B1%E8%A7%86TV/giteatvboxjt.json",
+            "name": "¼ÒÍ¥GITEAÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://¸Õ¸Õ.live/Ã¨.json",
+            "name": "¸Õ¸Õ×ß¹ıÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://gitea.com/Mike906/jar/raw/branch/main/zzz.json",
+            "name": "Mike906ÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://mtw.so/6jLrAg",
+            "name": "YoursmileÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://mtw.so/64J1GQ",
+            "name": "ÀÏÁõ±¸ÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/ÔÆĞÇÈÕ¼Ç/1.m3u8",
+            "name": "¡²ÔÆĞÇÈÕ¼Ç¡³¼ÒÍ¥°æÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/ÔÆĞÇÈÕ¼Ç/bili.json",
+            "name": "¡²ÔÆĞÇÈÕ¼Ç¡³ßÙÁ¨Ì×²ÍÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/ÔÆĞÇÈÕ¼Ç/ali.m3u8",
+            "name": "¡²ÔÆĞÇÈÕ¼Ç¡³°¢ÀïÌ×²ÍÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://mtw.so/5AEgkc",
+            "name": "houxianÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://mtw.so/6cfhxt",
+            "name": "suanjinÏßÂ·",
+            "time": "2022-08-26 02:00:00"
+        },
+        // {
+        //     "url": "https://gitea.com/videojx/zyk/raw/branch/main/xuexi.json",
+        //     "name": "Ñ§Ï°Æ½°å"
+        // },
+        {
+            "url": "http://mtv.weetai.cn/mtv/260.txt",
+            "name": "260.txt"
+        }
+        // {
+        //     "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
+        //     "name": "XC.json"
+        // },
+        // {
+        //     "url": "https://gitea.com/nb/kls/raw/branch/master/a9.json",
+        //     "name": "a9.json"
+        // },
+        // {
+        //     "url": "https://gitea.com/hfr1107/TVBox/raw/branch/main/sc.json",
+        //     "name": "sc.json"
+        // },
+        // {
+        //     "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+        //     "name": "meowcf.json"
+        // },
+        // {
+        //     "url": "https://liucn.cc/box/m.json",
+        //     "name": "m.json"
+        // },
+        // {
+        //     "url": "https://wds.ecsxs.com/223843.txt",
+        //     "name": "223843.txt"
+        // },
+        // {
+        //     "url": "http://home.jundie.top:81/668.json",
+        //     "name": "668.json"
+        // }
     ],
     "vip": [
         {
+            "url": "http://tvmvip110.live/down.php/8ee484fd7b6d3a8eb9b0005f43d68175.txt",
+            "name": "68175.txt"
+        },
+        {
             "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
             "name": "yeshijieC.json"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29908/18.json?sign=6dFDJtF30CNlCiznjsQmwbsUbxdtz9edLVjbDc5lC8E%3D%3A0",
+            "name": "ÔÂ¹â¸£Àû"
+        },
+        {
+            "url": "http://mtw.so/5PGEEm",
+            "name": "houxian¸£Àû",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
+            "name": "wlyz88FL",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://tvmvip110.live/down.php/0a20c53b3c39b42d21482b2597943bc7.txt",
+            "name": "943bc7.txt"
         }
     ]
 }
