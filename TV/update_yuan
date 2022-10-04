@@ -2,11 +2,11 @@
     "urls": [
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "1"
+            "name": "1号线路"
         },
         {
             "url": "https://agit.ai/ccvv/TVBox/raw/branch/main/tv.json",
-            "name": "2"
+            "name": "2号线路"
            
         },
         {
