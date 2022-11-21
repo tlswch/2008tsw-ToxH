@@ -2,8 +2,12 @@
 "urls": [
 
 {
+"url": "clan://localhost/JS/js.json",
+"name": "本地JS线路[开启储存权限]clan://localhost/JS/js.json"
+},
+{
 "url": "clan://localhost/tvbox_backup/1.json",
-"name": "本地线路[开启储存权限]clan://localhost/tvbox_backup/1.json"
+"name": "本地线路17[开启储存权限]clan://localhost/tvbox_backup/1.json"
 },
 { "url": "clan://localhost/tvbox_backup/2.json",
 "name": "本地线路2[开始储存权限]clan://localhost/tvbox_backup/2.json"
@@ -62,8 +66,8 @@
 "name": "本地线路16[开启储存权限]clan://localhost/tvbox_backup/16.json"
 },
 {
-"url": "clan://localhost/JS/js.json",
-"name": "本地线路17[开启储存权限]clan://localhost/JS/js.json"
+"url": "clan://localhost/tvbox_backup/17.json",
+"name": "本地线路17[开启储存权限]clan://localhost/tvbox_backup/17.json"
 },
 
 { "url": "clan://localhost/tvbox_backup/18.json",
