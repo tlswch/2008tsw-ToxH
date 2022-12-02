@@ -1,76 +1,42 @@
-{
-"urls": [
-
-{
-"url": "clan://localhost/JS/js.json",
-"name": "±¾µØÏßÂ·JS[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/1.json",
-"name": "±¾µØÏßÂ·1[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{ "url": "clan://localhost/tvbox_backup/2.json",
-"name": "±¾µØÏßÂ·2[¿ªÊ¼´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/3.json",
-"name": "±¾µØÏßÂ·3[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/4.json",
-"name": "±¾µØÏßÂ·4[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/5.json",
-"name": "±¾µØÏßÂ·5[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/6.json",
-"name": "±¾µØÏßÂ·6[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/7.json",
-"name": "±¾µØÏßÂ·7[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/8.json",
-"name": "±¾µØÏßÂ·8[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{ "url": "clan://localhost/tvbox_backup/9.json",
-"name": "±¾µØÏßÂ·9[¿ªÊ¼´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/10.json",
-"name": "±¾µØÏßÂ·10[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{ "url": "clan://localhost/tvbox_backup/11.json",
-"name": "±¾µØÏßÂ·11[¿ªÊ¼´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/12.json",
-"name": "±¾µØÏßÂ·12[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{ "url": "clan://localhost/tvbox_backup/13.json",
-"name": "±¾µØÏßÂ·13[¿ªÊ¼´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/14.json",
-"name": "±¾µØÏßÂ·14[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{ "url": "clan://localhost/tvbox_backup/15.json",
-"name": "±¾µØÏßÂ·15[¿ªÊ¼´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/16.json",
-"name": "±¾µØÏßÂ·16[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-{
-"url": "clan://localhost/tvbox_backup/17.json",
-"name": "±¾µØÏßÂ·17[¿ªÆô´¢´æÈ¨ÏŞ]"
-},
-
-{ "url": "clan://localhost/tvbox_backup/18.json",
-"name": "±¾µØÏßÂ·18[¿ªÊ¼´¢´æÈ¨ÏŞ]"
-}
+ï»¿{"urls": [
+{"url": "clan://localhost/JS/js.json","name":"ğŸ¡å¯’å†°JSæœ¬åœ°"},
+{"url": "clan://localhost/tvbox_backup/1.json","name":"ğŸ‘ğŸ»æœ¬åœ°çº¿è·¯1"},
+{"url": "clan://localhost/tvbox_backup/2.json","name":"ğŸ‡æœ¬åœ°çº¿è·¯2"},
+{"url": "clan://localhost/tvbox_backup/3.json","name":"ğŸ¬æœ¬åœ°çº¿è·¯3"},
+{"url": "clan://localhost/tvbox_backup/4.json","name":"ğŸ’æœ¬åœ°çº¿è·¯4"},
+{"url": "clan://localhost/tvbox_backup/5.json","name":"â˜£ï¸æœ¬åœ°çº¿è·¯5"},
+{"url": "clan://localhost/tvbox_backup/6.json","name":"ğŸ²æœ¬åœ°çº¿è·¯6"},
+{"url": "clan://localhost/tvbox_backup/7.json","name":"ğŸ²æœ¬åœ°çº¿è·¯7"},
+{"url": "clan://localhost/tvbox_backup/8.json","name":"ğŸºæœ¬åœ°çº¿è·¯8"},
+{"url": "clan://localhost/tvbox_backup/9.json","name":"ğŸ¥¦æœ¬åœ°çº¿è·¯9"},
+{"url": "clan://localhost/tvbox_backup/10.json","name":"âœˆï¸æœ¬åœ°çº¿è·¯10"},
+{"url": "clan://localhost/tvbox_backup/11.json","name":"â›´ï¸æœ¬åœ°çº¿è·¯11"},
+{"url": "clan://localhost/tvbox_backup/12.json","name":"ğŸš”æœ¬åœ°çº¿è·¯12"},
+{"url": "clan://localhost/tvbox_backup/13.json","name":"ğŸš€æœ¬åœ°çº¿è·¯13"},
+{"url": "clan://localhost/tvbox_backup/14.json","name":"ğŸ¿ï¸æœ¬åœ°çº¿è·¯14"},
+{"url": "clan://localhost/tvbox_backup/15.json","name":"ğŸ¥ƒæœ¬åœ°çº¿è·¯15"},
+{"url": "clan://localhost/tvbox_backup/16.json","name":"ğŸ¥¤æœ¬åœ°çº¿è·¯16"},
+{"url": "clan://localhost/tvbox_backup/17.json","name":"ğŸŒæœ¬åœ°çº¿è·¯17"},
+{"url": "clan://localhost/tvbox_backup/18.json","name":"ğŸ¦æœ¬åœ°çº¿è·¯18"},
+{"url": "clan://localhost/tvbox_backup/19.json","name":"ğŸ›¸æœ¬åœ°çº¿è·¯19"},
+{"url": "clan://localhost/tvbox_backup/20.json","name":"ğŸ±æœ¬åœ°çº¿è·¯20"},
+{"url": "clan://localhost/tvbox_backup/21.json","name":"ğŸœæœ¬åœ°çº¿è·¯21"},
+{"url": "clan://localhost/tvbox_backup/22.json","name":"ğŸ“æœ¬åœ°çº¿è·¯22"},
+{"url": "clan://localhost/tvbox_backup/23.json","name":"ğŸ³æœ¬åœ°çº¿è·¯23"},
+{"url": "clan://localhost/tvbox_backup/24.json","name":"ğŸæœ¬åœ°çº¿è·¯24"},
+{"url": "clan://localhost/tvbox_backup/25.json","name":"ğŸ²æœ¬åœ°çº¿è·¯25"},
+{"url": "clan://localhost/tvbox_backup/26.json","name":"ğŸ²æœ¬åœ°çº¿è·¯26"},
+{"url": "clan://localhost/tvbox_backup/27.json","name":"ğŸºæœ¬åœ°çº¿è·¯27"},
+{"url": "clan://localhost/tvbox_backup/28.json","name":"ğŸ¥¦æœ¬åœ°çº¿è·¯28"},
+{"url": "clan://localhost/tvbox_backup/29.json","name":"âœˆï¸æœ¬åœ°çº¿è·¯29"},
+{"url": "clan://localhost/tvbox_backup/30.json","name":"â›´ï¸æœ¬åœ°çº¿è·¯30"},
+{"url": "clan://localhost/tvbox_backup/31.json","name":"ğŸš”æœ¬åœ°çº¿è·¯31"},
+{"url": "clan://localhost/tvbox_backup/32.json","name":"ğŸš€æœ¬åœ°çº¿è·¯32"},
+{"url": "clan://localhost/tvbox_backup/33.json","name":"ğŸ¿ï¸æœ¬åœ°çº¿è·¯33"},
+{"url": "clan://localhost/tvbox_backup/34.json","name":"ğŸ¥ƒæœ¬åœ°çº¿è·¯34"},
+{"url": "clan://localhost/tvbox_backup/35.json","name":"ğŸ¥¤æœ¬åœ°çº¿è·¯35"},
+{"url": "clan://localhost/tvbox_backup/36.json","name":"ğŸŒæœ¬åœ°çº¿è·¯36"},
+{"url": "clan://localhost/tvbox_backup/37.json","name":"ğŸ¦æœ¬åœ°çº¿è·¯37"},
+{"url": "clan://localhost/tvbox_backup/38.json","name":"ğŸ›¸æœ¬åœ°çº¿è·¯38"}
 ]
 }
